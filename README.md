@@ -1,2 +1,2 @@
 ## NumericalAnalysis
-Numerical Analysis project in 2021
+Numerical Analysis course project's code in 2021
